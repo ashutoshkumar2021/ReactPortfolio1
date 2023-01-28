@@ -10,7 +10,7 @@ function Coding() {
         {
             id:1,
             src: leetcode,
-            title: 'LeetCode : 250+ Questions Solved',
+            title: 'LeetCode : 260+ Questions Solved',
         },
         {
             id:2,
