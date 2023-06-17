@@ -28,7 +28,7 @@ function portfolio() {
       demo: 'https://ashutoshkumar2021.github.io/tindog-website-/',
       code: 'https://github.com/ashutoshkumar2021/tindog-website-'
 
-    }
+    },
     {
       id: 4,
       src: TINDOG,
