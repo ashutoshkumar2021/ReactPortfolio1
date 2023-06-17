@@ -3,50 +3,52 @@ import VIT_INVENTORY from '../assets/portfolio/VIT_INVENTORY.png';
 import DICEE from '../assets/portfolio/DICEE.png';
 import TINDOG from '../assets/portfolio/TINDOG.png';
 import SORTING from '../assets/portfolio/Sorting.png';
-import MALLOC from '../assets/portfolio/Malloc.png';
+import MALLOC from '../assets/portfolio/Malloc1.png';
 
 
 function portfolio() {
 
   const projects=[
     {
-        id: 1,
+      id: 1,
+      src: MALLOC,
+      style: 'shadow-green-500',
+      demo: 'https://memoryallocationvizuliser.netlify.app/',
+      code: 'https://github.com/ashutoshkumar2021/Memory-Auto-Allocation-Visualiser'
+
+    },
+    {
+        id: 2,
         src: VIT_INVENTORY,
         style: 'shadow-blue-500',
         demo:'https://vit-inventory.netlify.app/',
         code:'https://github.com/ashutoshkumar2021/VIT_INVENTORY'
     },
     {
-      id: 2,
+      id: 3,
+      src: SORTING,
+      style: 'shadow-red-500',
+      demo: 'https://codingequilibria.netlify.app/',
+      code: 'https://github.com/ashutoshkumar2021/Sorting-Algorithm-Vizualizer'
+
+    },
+    {
+      id: 4,
       src: DICEE,
       style: 'shadow-green-500',
       demo:'https://ashutoshkumar2021.github.io/ThreeDice_game_basic_javascript/',
       code:'https://github.com/ashutoshkumar2021/ThreeDice_game_basic_javascript',
     },
     {
-      id: 3,
+      id: 5,
       src: TINDOG,
       style: 'shadow-red-500',
       demo: 'https://ashutoshkumar2021.github.io/tindog-website-/',
       code: 'https://github.com/ashutoshkumar2021/tindog-website-'
 
-    },
-    {
-      id: 4,
-      src: SORTING,
-      style: 'shadow-red-500',
-      demo: 'https://ashutoshkumar2021.github.io/tindog-website-/',
-      code: 'https://github.com/ashutoshkumar2021/tindog-website-'
-
-    },
-    {
-      id: 5,
-      src: MALLOC,
-      style: 'shadow-red-500',
-      demo: 'https://ashutoshkumar2021.github.io/tindog-website-/',
-      code: 'https://github.com/ashutoshkumar2021/tindog-website-'
-
     }
+    
+    
     
   ]
   return (
