@@ -3,7 +3,7 @@ import VIT_INVENTORY from '../assets/portfolio/VIT_INVENTORY.png';
 import DICEE from '../assets/portfolio/DICEE.png';
 import TINDOG from '../assets/portfolio/TINDOG.png';
 import SORTING from '../assets/portfolio/Sorting.png';
-import MALLOC from '../assets/potfolio/Malloc.png';
+import MALLOC from '../assets/portfolio/Malloc.png';
 
 
 function portfolio() {
