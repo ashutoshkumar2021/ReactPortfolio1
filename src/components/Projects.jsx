@@ -12,7 +12,7 @@ function portfolio() {
     {
       id: 1,
       src: MALLOC,
-      style: 'shadow-lightgreen-500',
+      style: 'shadow-green-500',
       demo: 'https://memoryallocationvizuliser.netlify.app/',
       code: 'https://github.com/ashutoshkumar2021/Memory-Auto-Allocation-Visualiser'
 
@@ -27,7 +27,7 @@ function portfolio() {
     {
       id: 3,
       src: SORTING,
-      style: 'shadow-lightblue-500',
+      style: 'shadow-blue-500',
       demo: 'https://codingequilibria.netlify.app/',
       code: 'https://github.com/ashutoshkumar2021/Sorting-Algorithm-Vizualizer'
 
@@ -35,7 +35,7 @@ function portfolio() {
     {
       id: 4,
       src: DICEE,
-      style: 'shadow-brown-500',
+      style: 'shadow-pink-500',
       demo:'https://ashutoshkumar2021.github.io/ThreeDice_game_basic_javascript/',
       code:'https://github.com/ashutoshkumar2021/ThreeDice_game_basic_javascript',
     },
