@@ -8,13 +8,13 @@ const Home = () => {
         <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
             <div className='flex flex-col justify-center h-full pb-8'>
                 <h1 className='text-3xl text-gray-500 py-4 max-w-md font-bold'>
-                   <center>Hello, Ashutosh Here!</center>
+                   <center>Hello, Ashutosh Kumar Here!</center>
                 </h1>
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>
-                    I'm a Full Stack Developer
+                    I'm a Frontend Developer
                 </h2>
                 <h3 className='text-gray-500 py-4 max-w-md font-bold'>
-                I am a Pre-Final Year Computer Science student at Vellore Institute of Technology,Bhopal. I'm very Passionate in learning new technology with having interest in Frontend Web Development and problem solving.
+                I am a Final Year Computer Science student at Vellore Institute of Technology,Bhopal. I'm very Passionate in learning new technology with having interest in Frontend Web Development and problem solving.
                 <br/>
 
                 </h3>
