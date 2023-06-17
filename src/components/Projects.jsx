@@ -2,6 +2,8 @@ import React from 'react'
 import VIT_INVENTORY from '../assets/portfolio/VIT_INVENTORY.png';
 import DICEE from '../assets/portfolio/DICEE.png';
 import TINDOG from '../assets/portfolio/TINDOG.png';
+import SORTING from '../assets/portfolio/Sorting.png';
+import MALLOC from '../assets/potfolio/Malloc.png';
 
 
 function portfolio() {
@@ -31,12 +33,21 @@ function portfolio() {
     },
     {
       id: 4,
-      src: TINDOG,
+      src: SORTING,
+      style: 'shadow-red-500',
+      demo: 'https://ashutoshkumar2021.github.io/tindog-website-/',
+      code: 'https://github.com/ashutoshkumar2021/tindog-website-'
+
+    },
+    {
+      id: 5,
+      src: MALLOC,
       style: 'shadow-red-500',
       demo: 'https://ashutoshkumar2021.github.io/tindog-website-/',
       code: 'https://github.com/ashutoshkumar2021/tindog-website-'
 
     }
+    
   ]
   return (
   <div name="projects" className='bg-gradient-to-b from-gray-800  to-black w-full text-white md:h-screen'>
