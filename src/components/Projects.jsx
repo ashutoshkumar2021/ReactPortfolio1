@@ -3,6 +3,7 @@ import VIT_INVENTORY from '../assets/portfolio/VIT_INVENTORY.png';
 import DICEE from '../assets/portfolio/DICEE.png';
 import TINDOG from '../assets/portfolio/TINDOG.png';
 
+
 function portfolio() {
 
   const projects=[
@@ -22,6 +23,14 @@ function portfolio() {
     },
     {
       id: 3,
+      src: TINDOG,
+      style: 'shadow-red-500',
+      demo: 'https://ashutoshkumar2021.github.io/tindog-website-/',
+      code: 'https://github.com/ashutoshkumar2021/tindog-website-'
+
+    }
+    {
+      id: 4,
       src: TINDOG,
       style: 'shadow-red-500',
       demo: 'https://ashutoshkumar2021.github.io/tindog-website-/',
