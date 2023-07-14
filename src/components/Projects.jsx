@@ -4,7 +4,7 @@ import DICEE from '../assets/portfolio/DICEE.png';
 import TINDOG from '../assets/portfolio/TINDOG.png';
 import SORTING from '../assets/portfolio/Sorting.png';
 import MALLOC from '../assets/portfolio/Malloc1.png';
-import HospitalM from '../assets/portfolio/HospitalM.png';
+import HospitalM from '../assets/portfolio/Screenshot (3304).png';
 
 
 function portfolio() {
