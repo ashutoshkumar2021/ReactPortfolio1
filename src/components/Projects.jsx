@@ -21,7 +21,7 @@ function portfolio() {
     {
         id: 2,
         src: HospitalM,
-        style: 'shadow-blue-500',
+        style: 'shadow-yellow-500',
         demo:'https://hospitalmanagementb23.onrender.com/',
         code:'https://github.com/ashutoshkumar2021/Hospital-Management'
     },
